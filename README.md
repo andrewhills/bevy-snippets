@@ -1,1 +1,1 @@
-# bevy-snippets
+# bevy snippets
